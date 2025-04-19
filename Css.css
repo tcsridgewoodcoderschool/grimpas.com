@@ -1,0 +1,40 @@
+.Depart{
+  font-family: "Raleway"
+}
+h1{
+  font-family: "Sacramento";
+  text-align: center;
+  font-size: 36pt;
+}
+
+.search-bar{
+  text-align: center;
+  margin: auto;
+  display: block;
+  font-family: "Raleway";
+  width:32%;
+}
+
+button{
+  margin: auto;
+  width:10%;
+  display: block
+}
+
+table {
+  padding-left: 100px;
+}
+
+#trips {
+  display: block;
+  width: 80%;
+  margin: auto;
+}
+
+td{
+  font-family: "EB Garamond";
+}
+
+th{
+  
+}
